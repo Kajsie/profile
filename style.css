@@ -1,0 +1,63 @@
+body {
+  background-image: url("images/clouds.jpg");
+  font-family: "Amiri", sans-serif;
+  color: #302731;
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+h1, h2, h3 {
+  font-family: "Raleway", sans-serif;
+  color: #302731;
+  font-size: 25px;
+  line-height: 2em;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+a i{
+  color: #001430;
+  text-decoration: underline;
+}
+
+a i:hover {
+  color: #6d2735;
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  margin: 50px 20px 50px 20px;
+}
+
+.card {
+  background-color: #f8f8f8;
+  padding: 10px;
+  margin: 25px auto;
+  width: 1000px;
+  border-radius: 30px;
+  border: 1px solid lightgrey;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 40px 20px;
+}
+
+.img-spacing {
+  padding: 30px 30px 30px 30px;
+}
+
+.img-circle {
+  border-radius: 50px;
+}
+
+#profile-circle {
+  border-radius: 25px;
+}
+
